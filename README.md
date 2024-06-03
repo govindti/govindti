@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/govind_tiwri" target="blank"><img src="https://img.shields.io/twitter/follow/govind_tiwri?logo=twitter&style=for-the-badge" alt="govind_tiwri" /></a> </p>
 
-- 🔭 I’m currently working on **to-do app**
+- 🔭 I’m currently working on **Backend on a fully functional Social Media Back-End**
 
-- 🌱 I’m currently learning **Django,React**
+- 🌱 I’m currently learning **Django,MERN**
 
-- 💬 Ask me about **JavaScript, DSA**
+- 💬 Ask me about **JavaScript, TypeScipt, DSA**
 
 - 📫 How to reach me **108tiwari.g@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/17-d-4owP6MB4PgeOvZC50d5qrBifgBqA/view?usp=sharing](https://drive.google.com/file/d/17-d-4owP6MB4PgeOvZC50d5qrBifgBqA/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1oVWTSqVnPMkcg6Mb7pA7EqhioNsXKwbZ/view?usp=sharing](https://drive.google.com/file/d/1oVWTSqVnPMkcg6Mb7pA7EqhioNsXKwbZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
