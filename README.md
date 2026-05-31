@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/Govind_tiwari_?label=Follow)](https://twitter.com/intent/follow?screen_name=Govind_tiwari_)
 [![Linkedin: govindtiwri](https://img.shields.io/badge/-govindtiwari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/govindtiwri/)](https://www.linkedin.com/in/govindtiwri/)
 ![GitHub followers](https://img.shields.io/github/followers/govindti?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://www.govindtiwari.site/)](https://www.govindtiwari.site/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=[https://www.govindtiwari.site/](https://govindtiwari.vercel.app/))](https://govindtiwari.vercel.app/)
 
 
 ### 📫 Like to meet me?
